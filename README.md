@@ -13,7 +13,7 @@ There are five different types of functions:
 *Note:* This is just a quick experiment. Draw your own conclusions.
 
 
-## **Prerequisites
+## Prerequisites
 
 Get a free [IBM Cloud Lite](https://ibm.biz/nheidloff) account.
 
