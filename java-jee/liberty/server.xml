@@ -1,0 +1,12 @@
+<server description="new server">
+
+    <featureManager>
+    <feature>webProfile-8.0</feature>
+        <feature>microProfile-2.1</feature>
+    </featureManager>
+
+    <httpEndpoint httpPort="9080" httpsPort="9443" id="defaultHttpEndpoint"/>
+
+    <webApplication contextRoot="/" id="function" location="/config/function.war" name="function"/>
+
+</server>
