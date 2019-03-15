@@ -13,7 +13,7 @@ There are five different types of functions:
 *Note:* This is just a quick experiment. Draw your own conclusions.
 
 
-**Prerequisites**
+## **Prerequisites
 
 Get a free [IBM Cloud Lite](https://ibm.biz/nheidloff) account.
 
@@ -131,7 +131,7 @@ $ curl --request POST \
 ```
 
 
-## Run Functions locally OpenWhisk
+## Run Functions locally in OpenWhisk
 
 Follow the [instructions](https://github.com/apache/incubator-openwhisk-devtools/blob/master/docker-compose/README.md) to set up OpenWhisk locally.
 
